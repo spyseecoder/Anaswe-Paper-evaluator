@@ -1,0 +1,24 @@
+
+    STUDENT ANSWER SHEET
+    Student ID: STU001
+    Date: 28/03/2026
+    
+    Question 1: Algebra
+    (x + 5)² = x² + 10x + 25
+    Solving x² + 10x + 25 = 0:
+    (x + 5)² = 0
+    x = -5
+    
+    Question 2: Geometry
+    Triangle angles: 45°, 60°, 75°
+    Area of triangle = 1/2 × base × height = 1/2 × 10 × 8 = 40 cm²
+    
+    Question 3: Calculus
+    f(x) = 3x² + 2x + 1
+    f'(x) = 6x + 2
+    ∫f(x)dx = x³ + x² + x + C
+    
+    Question 4: Statistics
+    Mean = 75, Std Dev = 8, Sample size = 100
+    Conclusion: Data is normally distributed
+    

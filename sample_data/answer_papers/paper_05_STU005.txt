@@ -1,0 +1,24 @@
+STUDENT ANSWER SHEET
+Student ID: STU005
+Name: Emma Brown
+Date: March 28, 2026
+
+SECTION A: ALGEBRA
+
+Q1: x = 3, 1
+
+Q2: x² + 8y - 4
+
+Q3: x = 2, y = 2
+
+SECTION B: GEOMETRY
+
+Q4: Area = 5
+
+Q5: Arc = 4
+
+SECTION C: CALCULUS
+
+Q7: dy/dx = 12x³ - 4x (missing +5)
+
+Q8: x³ + x² + x

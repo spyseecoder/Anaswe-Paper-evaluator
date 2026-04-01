@@ -1,0 +1,49 @@
+STUDENT ANSWER SHEET
+Student ID: STU002
+Name: Bob Smith
+Date: March 28, 2026
+Roll Number: 002
+
+SECTION A: ALGEBRA
+
+Q1: 2x² - 8x + 6 = 0
+Using quadratic formula: x = (-b ± √(b²-4ac))/2a
+a=2, b=-8, c=6
+x = (8 ± √(64-48))/4 = (8 ± √16)/4 = (8 ± 4)/4
+x = 3 or x = 1
+Answer: x = 1, x = 3
+
+Q2: 3x² + 5y - 2x² + 3y - 4
+= (3-2)x² + (5+3)y - 4
+= x² + 8y - 4
+
+Q3: 2x + 3y = 11, x - y = 0
+From eq 2: x = y
+Sub: 2y + 3y = 11, so y = 2.2, x = 2.2
+
+SECTION B: GEOMETRY
+
+Q4: Triangle 3-4-5
+Right angle triangle
+Area = 6 cm²
+
+Q5: Circle radius 5, arc 60°
+Arc = (60/360) × 2π(5) ≈ 5.24 cm
+
+Q6: Cube side 4
+Volume = 64 cm³
+Surface area = 96 cm²
+
+SECTION C: CALCULUS
+
+Q7: y = 3x⁴ - 2x² + 5x - 7
+dy/dx = 12x³ - 4x + 5
+
+Q8: ∫(3x² + 2x + 1)dx = x³ + x² + x + C
+
+SECTION D: STATISTICS
+
+Q9: Data: {85, 90, 88, 92, 87, 91, 86, 89, 90, 88}
+Mean = 88.6
+Standard Dev ≈ 2.2
+Most scores are close to mean, showing average consistency.

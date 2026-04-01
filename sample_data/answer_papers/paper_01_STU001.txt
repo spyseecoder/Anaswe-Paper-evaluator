@@ -1,0 +1,77 @@
+STUDENT ANSWER SHEET
+Student ID: STU001
+Name: Alice Johnson
+Date: March 28, 2026
+Roll Number: 001
+
+SECTION A: ALGEBRA
+
+Q1: Solve the quadratic equation 2x² - 8x + 6 = 0
+Solution:
+2x² - 8x + 6 = 0
+Dividing by 2: x² - 4x + 3 = 0
+Factoring: (x - 1)(x - 3) = 0
+Therefore: x = 1 or x = 3
+Verification: 2(1)² - 8(1) + 6 = 2 - 8 + 6 = 0 ✓
+             2(3)² - 8(3) + 6 = 18 - 24 + 6 = 0 ✓
+Answer: x = 1, x = 3
+
+Q2: Simplify 3x² + 5y - 2x² + 3y - 4
+Solution:
+Grouping like terms:
+= (3x² - 2x²) + (5y + 3y) - 4
+= x² + 8y - 4
+Answer: x² + 8y - 4
+
+Q3: Solve the system:
+2x + 3y = 11
+x - y = 0
+
+Solution:
+From second equation: x = y
+Substituting in first: 2y + 3y = 11
+5y = 11
+y = 2.2
+Therefore: x = 2.2
+
+Verification:
+2(2.2) + 3(2.2) = 4.4 + 6.6 = 11 ✓
+2.2 - 2.2 = 0 ✓
+Answer: x = 2.2, y = 2.2
+
+SECTION B: GEOMETRY
+
+Q4: Triangle with sides 3, 4, 5 cm
+This is a right-angled triangle (Pythagorean triple)
+Angles: 90°, 53.13°, 36.87°
+Area = ½ × base × height = ½ × 3 × 4 = 6 cm²
+Perimeter = 3 + 4 + 5 = 12 cm
+
+Q5: Circle with radius 5 cm
+Arc length subtending 60°:
+Arc length = (θ/360°) × 2πr
+= (60/360) × 2π × 5
+= (1/6) × 10π
+= 5π/3 ≈ 5.24 cm
+
+Q6: Cube with side 4 cm
+Volume = side³ = 4³ = 64 cm³
+Surface Area = 6 × side² = 6 × 16 = 96 cm²
+
+SECTION C: CALCULUS
+
+Q7: Find dy/dx for y = 3x⁴ - 2x² + 5x - 7
+Solution:
+dy/dx = 12x³ - 4x + 5
+
+Q8: Find ∫(3x² + 2x + 1)dx
+Solution:
+∫(3x² + 2x + 1)dx = x³ + x² + x + C
+
+SECTION D: STATISTICS
+
+Q9: Data set: {85, 90, 88, 92, 87, 91, 86, 89, 90, 88}
+Mean = (85+90+88+92+87+91+86+89+90+88)/10 = 886/10 = 88.6
+Variance = 4.84
+Standard Deviation ≈ 2.2
+Conclusion: The data shows consistent performance with most scores near the mean.

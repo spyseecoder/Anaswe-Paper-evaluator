@@ -1,0 +1,35 @@
+STUDENT ANSWER SHEET
+Student ID: STU003
+Name: Carol Davis
+Date: March 28, 2026
+Roll Number: 003
+
+SECTION A: ALGEBRA
+
+Q1: 2x² - 8x + 6 = 0
+Factoring: (2x - 6)(x - 1) = 0
+x = 3, x = 1
+
+Q2: 3x² + 5y - 2x² + 3y - 4 = x² + 8y - 4
+
+Q3: 2x + 3y = 11, x - y = 0
+x = 2.2, y = 2.2
+
+SECTION B: GEOMETRY
+
+Q4: 3-4-5 triangle
+Area = 6 cm²
+
+Q5: Arc length ≈ 5 cm
+
+Q6: Cube volume = 64 cm³
+
+SECTION C: CALCULUS
+
+Q7: dy/dx = 12x³ - 4x + 5
+
+Q8: ∫(3x² + 2x + 1)dx = x³ + x² + x + C
+
+SECTION D: STATISTICS
+
+Q9: Mean = 88.6, Standard dev = 2.2

@@ -1,0 +1,29 @@
+STUDENT ANSWER SHEET
+Student ID: STU004
+Name: David Wilson
+Date: March 28, 2026
+
+SECTION A: ALGEBRA
+
+Q1: 2x² - 8x + 6 = 0
+x = 3, x = 1
+
+Q2: x² + 8y - 4
+
+Q3: x = 2.2, y = 2.2
+
+SECTION B: GEOMETRY
+
+Q4: Area = 6
+
+Q5: Arc = 5
+
+SECTION C: CALCULUS
+
+Q7: dy/dx = 12x³ - 4x + 5
+
+Q8: x³ + x² + x + C
+
+SECTION D: STATISTICS
+
+Q9: Mean = 88.6

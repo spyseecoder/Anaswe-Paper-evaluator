@@ -1,0 +1,25 @@
+SAMPLE DATA SUMMARY
+============================================================
+
+Marking Scheme: marking_scheme.txt
+
+Answer Papers (10 total):
+------------------------------------------------------------
+ 1. Alice Johnson        (ID: STU001) -  95/100
+ 2. Bob Smith            (ID: STU002) -  87/100
+ 3. Carol Davis          (ID: STU003) -  78/100
+ 4. David Wilson         (ID: STU004) -  68/100
+ 5. Emma Brown           (ID: STU005) -  55/100
+ 6. Student L            (ID: STU006) -  82/100
+ 7. Student M            (ID: STU007) -  72/100
+ 8. Student N            (ID: STU008) -  91/100
+ 9. Student O            (ID: STU009) -  64/100
+10. Student P            (ID: STU010) -  76/100
+
+------------------------------------------------------------
+Grade Distribution:
+  A (90-100): 2 papers
+  B (80-89):  2 papers
+  C (70-79):  3 papers
+  D (60-69):  2 papers
+  F (<60):    1 papers

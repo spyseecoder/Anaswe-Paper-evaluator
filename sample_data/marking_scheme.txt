@@ -1,0 +1,88 @@
+MATHEMATICS FINAL EXAMINATION
+====================================
+Course: Mathematics 101
+Total Marks: 100
+Duration: 3 hours
+Date: March 28, 2026
+
+MARKING SCHEME
+==============
+
+SECTION A: ALGEBRA (30 marks)
+-----------------------------
+Question 1: Solve the quadratic equation (10 marks)
+- Correct identification of equation type: 2 marks
+- Setting up correctly: 2 marks
+- Using correct method (factoring/quadratic formula): 3 marks
+- Correct calculation: 2 marks
+- Correct final answer: 1 mark
+
+Question 2: Simplify the algebraic expression (10 marks)
+- Identifying like terms: 2 marks
+- Correct expansion: 3 marks
+- Combining terms correctly: 3 marks
+- Final simplified form: 2 marks
+
+Question 3: System of linear equations (10 marks)
+- Correct method selection: 2 marks
+- Setting up equations: 2 marks
+- Solving first variable: 3 marks
+- Solving second variable: 2 marks
+- Verification: 1 mark
+
+SECTION B: GEOMETRY (35 marks)
+------------------------------
+Question 4: Triangle properties (12 marks)
+- Identifying triangle type: 2 marks
+- Angle calculation: 4 marks
+- Area calculation: 4 marks
+- Using correct formula: 2 marks
+
+Question 5: Circle theorems (12 marks)
+- Understanding the theorem: 3 marks
+- Angle identification: 3 marks
+- Calculation of arc length: 3 marks
+- Final answer with units: 3 marks
+
+Question 6: 3D geometry (11 marks)
+- Visualization: 2 marks
+- Correct formula application: 3 marks
+- Volume calculation: 3 marks
+- Surface area calculation: 3 marks
+
+SECTION C: CALCULUS (25 marks)
+------------------------------
+Question 7: Differentiation (12 marks)
+- Power rule application: 2 marks
+- Chain rule application: 3 marks
+- Product rule application: 3 marks
+- Correct final derivative: 2 marks
+- Simplification: 2 marks
+
+Question 8: Integration (13 marks)
+- Recognizing integration type: 2 marks
+- Correct formula: 3 marks
+- Proper substitution: 3 marks
+- Finding constant: 3 marks
+- Final integral form: 2 marks
+
+SECTION D: STATISTICS (10 marks)
+--------------------------------
+Question 9: Data analysis (10 marks)
+- Data interpretation: 2 marks
+- Mean calculation: 2 marks
+- Standard deviation calculation: 3 marks
+- Statistical conclusion: 3 marks
+
+GRADING SCALE:
+90-100: A (Excellent)
+80-89: B (Very Good)
+70-79: C (Good)
+60-69: D (Satisfactory)
+Below 60: F (Fail)
+
+NOTES FOR EVALUATORS:
+- Award partial credit for correct method even if final answer is wrong
+- Deduct marks for missing units in answers
+- Accept alternative correct methods
+- Penalize for calculation errors but give credit for approach
